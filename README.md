@@ -1,1 +1,1 @@
-MARKUP practice
+MARKUP template
